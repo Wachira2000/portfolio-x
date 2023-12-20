@@ -21,7 +21,7 @@ const projectsData = [
     image: "/images/projects/2.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Wachira2000/My-Restaurant",
-    previewUrl: "https://my-restaurant-self.vercel.app/#home",
+    previewUrl: "https://my-restaurant-self.vercel.app/"
   },
   {
     id: 3,
