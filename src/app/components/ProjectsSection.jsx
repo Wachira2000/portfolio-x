@@ -8,7 +8,7 @@ const projectsData = [
   {
     id: 1,
     title: "Restaurant Website",
-    description: "Project 1 description",
+    description: "Users can view the restaurant's menu",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Wachira2000/Restaurant-4",
@@ -17,7 +17,7 @@ const projectsData = [
   {
     id: 2,
     title: "Food Ordering App",
-    description: "Project 2 description",
+    description: "Users can place food orders",
     image: "/images/projects/2.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Wachira2000/My-Restaurant",
@@ -26,7 +26,7 @@ const projectsData = [
   {
     id: 3,
     title: "Restaurant Website",
-    description: "Project 3 description",
+    description: "Here customers can view a restaurant's menu",
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Wachira2000/Restaurant2",
@@ -35,7 +35,7 @@ const projectsData = [
   {
     id: 4,
     title: "Food Ordering App",
-    description: "Project 4 description",
+    description: "Users can make food orders",
     image: "/images/projects/4.png",
     tag: ["All", "Mobile"],
     gitUrl: "https://github.com/Wachira2000/Restaurant-3",
@@ -53,7 +53,7 @@ const projectsData = [
   {
     id: 6,
     title: "Restaurant Website",
-    description: "Project 5 description",
+    description: "Users can communicate with the restaurant",
     image: "/images/projects/6.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Wachira2000/Restaurant-3",
