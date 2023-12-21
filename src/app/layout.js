@@ -5,7 +5,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
   title: 'Lewis Wachira Portfolio',
-  description: 'Created using Nextjs 14',
+  description: 'Developed using Nextjs 14',
 }
 
 export default function RootLayout({ children }) {
